@@ -1,5 +1,3 @@
-# Vonn Adrian C. Jutar - A121
-
 class Letter:
 
     # Constructor that takes a sender and a recepient parameter
