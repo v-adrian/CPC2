@@ -1,4 +1,3 @@
-# Vonn Adrian C. Jutar - A121
 # Testing Question.py
 
 from Question import *
