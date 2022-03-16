@@ -1,4 +1,3 @@
-# Vonn Adrian C. Jutar - A121
 # Testing Letter.py
 
 from Letter import Letter
