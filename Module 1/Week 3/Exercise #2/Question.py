@@ -1,5 +1,3 @@
-# Vonn Adrian C. Jutar - A121
-
 # Superclass
 class Question:
     def __init__(self):
