@@ -1,5 +1,3 @@
-# Vonn Adrian C. Jutar - A121
-
 from tkinter import *
 
 root = Tk()
