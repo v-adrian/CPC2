@@ -13,6 +13,7 @@ message = '''
         <h2>Vonn Adrian C. Jutar- A121</h2>
         <p>Thank you!</p> 
     </body>
+</html>
 '''
 
 f = open('Exercise #5.html', 'w')
