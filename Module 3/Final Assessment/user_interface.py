@@ -1,4 +1,3 @@
-from re import I
 from tkinter import *
 from tkinter import ttk
 
